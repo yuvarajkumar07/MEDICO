@@ -1,0 +1,18 @@
+.footer-area {
+    background-color: #f3f6f7;
+    color: #f3f6f7;
+  }
+
+  .footer-area .copyright_part {
+    background-color: #0d1820;
+    padding: 26px 0px;
+  }
+  
+
+  
+  @media (max-width: 991px) {
+    /* line 200, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_footer.scss */
+    .footer-area .copyright_part .footer-text {
+      text-align: center;
+    }
+  }
